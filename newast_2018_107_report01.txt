@@ -1,12 +1,164 @@
 -------- response to the authors --------
 
+The authors of this paper examine different scenarios that lead to the formation of stars as consequence of the fragmentation of molecular clouds. In particular, the authors focus on the opacity limited fragmentation. In this scenario the gas within the molecular clouds are supposed to becomes unstable as its opacity exceeds a critical limit while the gas is not able to cool down, may it be due to the equation of states which limits calling by expansion or due to insufficient cooling rates of H2, CO, and dust grains. 
+
+In my opinion, the authors of the manuscript target an interesting and, so far, neglected topic that may answer how fragmentation may be triggered whenever neither thermal, nor turbulent, nor magnetic instabilities are sufficient enough to destabilise the particular clouds. Thus, I see that the presented study has the potential to contribute to discussions on the onset of star formation. 
+However, the paper is written in a very incomprehensible, confusing way and requires a major (if not even complete) linguistic revision. I am inclined to recommend the manuscript for publication in the New Astronomy after the following issues are addressed by the authors:
+
+* entire paper:
+I appreciate that the authors have decided to provide an extensive introduction to the topic of opacity limited fragmentation including all its equations. This is particularly helpful for all non-theorists and students. 
+However, I do miss a proper results (before the discussion section) and conclusion section (at the end of the paper, summarising the main findings and conclusions, maybe also recommendations for future studies). With this I particularly mean that mentioning the tables and referring to the values later is *not* enough. The authors also have to present them within the text and explain in words how the parameters react to the different kinds of dust grains, initial temperatures, etc. Some figures would also help the reader to see the results more clearly.
+In general, I really recommend the authors to revise and restructure the paper for more clarity and comprehensibility. 
 
 
+1) entire paper:
+Note that the term „Jeans mass“ relates to the maximal mass of a spherical, thermally stable cloud. Thus, when the authors talk about the minimal fragment mass resulting from their opacity study it is *wrong* to use the term „Jeans mass“.
 
+2) Abstract
+It is common practice to *not* cite other paper in the abstract unless it is absolutely necessary, which is certainly not the case here.
+
+3) Abstract 
+Please, define n as polytropic indices before using it. 
+
+4) Sect. 1
+The introduction needs to be restructures as the permanent hopping between thermal instability and opacity limited fragmentation is quite confusing, even for someone working on fragmentation scenarios themselves.
+
+5) Sect. 1: „The thermal instability is the most famous physical process to understand the ISM“
+This statement is simple wrong. One does not need any instability to understand parts of the ISM (for example, the heating and cooling of the ISM is well understood for equilibrium configurations).  Yet, instabilities (thermal and other ones) are essential to understand the onset of star formation. Specify this!
+
+6) Sect. 1: „Molecular clouds are characterized by supersonic velocity dispersions, which are most probably due to [supersonic] turbulence (Larson 1981; Solomon et al. 1987) [and the turbulent velocity is highly supersonic (Sabano & Tosa 1985); remove].“
+Actually, molecular clouds (MCs) are characterised by as parts of the ISM that are dense and cold enough to allow the formation and survival of molecules (that is also the origin of the term „molecular cloud“). Thus, the density is the primary characteristic of a MC. Other parameters, like the gas and dust temperatures, velocity dispersions, and many more, are also important for the dynamics of the particles within the clouds, but they do not define the nature of MCs. There are examples of quiet zones within MCs, or even entire MCs with thermal velocity dispersions. 
+I guess what the authors actually mean is: „One particularly interesting characteristic in the context of fragmentation is that molecular clouds use to show supersonic velocity dispersions due to turbulent flows (Larson 1981; Sabano & Tosa 1985; Solomon et al. 1987)“.
+
+7) Sect. 1: „The most dominant sources of opacity is high density […]“
+Density is a property of a matter (gas, dust, ions, whatever), but never the source of opacity. The most dominant sources of opacity is dust, also at low densities, and molecular gas at high densities.
+
+8) entire paper: 
+Please reconsider the objects you study (molecular clouds) and their typical properties and focus your investigations to that parameter space. For example:
+-> Sect. 2: Molecular clouds do not exist at 500K is a far too high average temperature for typical molecular clouds. At these temperatures most of the molecules are already dissipated and the gas would be classified as part of the Warm Neutral or Warm Ionised Medium. Most molecular clouds have average gas temperatures within T < 50K. There are some clouds whose temperatures exceed this value, but non of them is on average hotter than 100-200K and all of them are located in extreme environments, such as the Galactic centre. 
+The authors mention that they also aim to explain the onset of starburst events. I indeed see that their study has the potential to do this and temperatures of 500K may be a good starting point for such kind of studies. However, I would recommend that the authors should not discuss starburst scenarios in this paper as the results are all based on initial temperatures <= 50K. This perfectly suits to common molecular clouds, but not to starburst regions. 
+-> Entire paper: I still do not know (after reading the paper at least three times) which wavelength range the authors actually consider; referring to the fact that opacity is highly dependent on the frequency/wavelength. Thus, whenever the authors argue that opacity is introducing instabilities or discuss which source of opacity is dominating, they *MUST* specify which wavelength range is currently important. Again, the authors should make sure to consistently refer to the properties of those objects their study actually target. 
+ 
+9) Sect. 2: Eq. (7)
+The reference is missing!
+-> Furthermore, we follow X & Y (some year) and derive the CO cooling rate with: [Eq. (7)]
+
+10) Sect. 2: „Now the ratio of dust to gas mass in the diffuse ISM of Milky way is around 1 : 100 […] but within molecular clouds that ratio depends on the grain size. “
+This is not true. The dust-to-gas ratio does not primarily on the grain size, but on the evolutionary stage of the cloud. Both molecular clouds and the ISM have relatively similar dust-to-gas ratios (between 1:90 to 1:140 in extreme cases). The ratio only increases significantly when a protostar evolves an accretion disk. Theses disks compress the matter immensely and separates the gas and dust particles by accreting the gas while the dust remains within the disk. The dust is now able to efficiently aggregate and grow in size.
+By the way, I guess the authors mean that they consider a ratio of Z = 10e-2, not 10-3?
+Note, furthermore, that typical dust grain sizes in the ISM and molecular clouds are with several tens to hundreds of nm. Thus, they are far smaller than 10microns, that are rather uncommon sizes for sterile, non-star-forming clouds. 
+
+11) Sect. 2: „In the presence of three types of grains […]“
+Which kind of grains? So far, the authors only introduced molecular hydrogen, CO, and dust in general as sources of opacity. At no point (not before, nor really after), the authors introduce the dust species they use, including a motivation why they have chosen to focus on these three species in particular (instead of just mentioning that they are considered). 
+
+12) Sect. 3: „Minimum mass of a protostellar fragment for negative polytropes“
+As the authors have mentioned in the previous paragraph, the resulting may not contain enough gas to form stars. Thus, I would recommend to just talk about „fragments“ rather than „protostellar fragments“, as the term „protostellar“ suggests that the object is the seed of at least one future star. 
+
+13) Sect. 3: „Since T = Tg at low temperature and high density […]“
+This assumption is (only) true for T < 30K, but I miss a motivation why this is the case.
+
+14) Sect. 3: „This is to be noted that for Olivine and Graphite core and ice mantle […]“
+Do you mean cores containing Olivine or Graphite that may or may not be covert by ice mantles? Or cores with both Olivine and Graphite that are covered by ice? And which kind of ice do the authors mean (water, CO, ammonia, anything else)? 
+Note that all these questions have a direct and strong influence of the behaviour of opacity, geometry, and irradiation behaviour of the dust particles and are, therefore, crucial to answer. The best approach would be to introduce a methods section that summarises all important information about initial parameters, equation solving methods, considered gas and dust species, and so on; instead of spreading all these information all over the paper. 
+
+15) Sect. 4: Eq. (12)
+Please specify the wavelength range this equation shall hold within, as it is not universal.
+Furthermore, motivate why the authors only consider J -> J-2 transition of H2. What about all the other transitions. Also motivate how these transitions shall be activated, as if H2 emission should be that common why do have such problems observing it?
+And why is the CO opacity negligible? Again, specify the wavelength range!
+
+16) Sect. 2 & 4: Eq. (5) & (13)
+What do delta and q represent? Mentioning that those are dust grain parameters is not enough.
+
+17) Sect. 5: „In the former case thermal instability associated with equation of state […]“
+Every gas follows an equation of state, no matter whether it is thermally stable or not. Thus, this is not the point. Rather it is that given, specific equation of state, like polytropicones, are prone against promoting instabilities by not being able to adjust to changes of state (heating, compression, …) within a sufficient time to stabilise the gas within the new conditions again. 
+
+18) Sect. 5: „[…] thermal instability […] can give rise to Jeans masses […]“
+Be more precise. Instabilities do not give rise to Jeans masses. Rather Jeans masses are consequences of stability analyses, reflecting the maximal mass a sphere may contain and still be stable. What precisely happens when the actual mass exceeds this limit strongly depends on the detailed conditions of the respective object and is hardly predictable.
+
+19) Sect. 5: „This type of situation can arise in a shock compressed medium […] which then undergoes gravitational instability leading to fragmentation and subsequent collapse, called protostars.“
+This os one possible scenario, but not the only one. A molecular cloud can also naturally cool down and locally condense onto protostars without any shocks being involved.
+
+20) Sect. 5: „For n < −6 Jeans masses have very small values (viz. ∼ 0.0001 M⊙) which cannot give birth to stars even after accretion etc. […]“
+Is the small fragment mass the only reason why the authors only consider n >= -6? What do observations normally reveal? What is the most likely range of values for n that are expected for star-forming regions? 
+I would appreciate a detailed comparison and discussion of the authors’ results with observational findings. 
+
+21) Sect. 5: „Under explosive spherical shocks molecular rings are produced behind the shock front (Saito 1990; Kanjilal & Basu 1991) which can be considered as a spherical shell or cylinders in a small area. Such molecular rings have been observed in the central region of our Galaxy (Scoville & Solomon 1975; Gordon & Burton 1976; Cohen & Thaddeus 1977; Solomon et al. 1979).“
+This is a very special case that does not explain the conditions of common star-forming regions, and may be out of the scope of this paper.
+22) Sect. 5: „Due to the absence of CO absorption lines in some clouds (Barvainis & Antonucci 1994; Gaustad 1963) we have not considered CO as opacity source in the present model. Also CO are depleted by freezing on dust grains and we have already included dust opacity […]“
+This is, again, a very special and extremely rare case. Normally molecular clouds do have strong CO emission which is the reason why it is one of the most important molecules in the entire astronomy. Thus, the authors should revise the contribution of CO in their study once again.
+
+23) Sect. 5 (ii) & (iii):
+Well, that is a direct result of the Jeans analysis. I do not see which part reflects a new insight.
+
+24) Sect. 5 (v): 
+How high is high? And how do higher initial temperatures motivate starburst activities? Almost the entire universe is filled with warm and hot gas, but it is the tinny little fraction of cold gas that forms stars. Please discuss this point in more detail with respect to the composition of the ISM (and IGM, if necessary). 
+
+25) Sect. 5: „For values n > 5 the configuration extends to infinite dimension […]“
+What do you mean this infinite dimension? Would such a configuration form stars bigger than the universe?
+
+26) Sect. 5: „[…] very high Tmin (e.g. ∼ 103K − 104K) […]“
+That high temperatures are not observed in molecular clouds, in particular not in sterile clouds!
+
+27) Sect. 5: „The above features […]“
+Which features? Those listed in (i)—(vi)?
+
+28) Sect. 5: „[…] in absence of cooling by grains and molecules which increases the temperature […]“
+The coolants are not absent. When the opacity is high enough the following happens: (a) the cooling rates of the particles become insufficient as they are excited to higher levels and cannot decay to lower levels to which the energy differences are large enough to efficiently cool the gas; (b) the photons become self-absorbing as the photons emitted by the one particle becomes absorbed by another one of the coolants would indeed be absent the emitted photons would completely escape the cloud that is heated up by cosmic rays. 
+
+29) Table 1: 
+- „Different values of grain parameters used in the study (Silk 1977).“ -> Parameters of dust grains used in this study (adapted from Silk 1977).
+- Dust species are not written in Italic style.
+
+30) Tables 2-9:
+- Would it be possible to replace the maximal mass density (rho [g cm-3]) by the maximal number density (n [cm-3])? The latter one is more commonly used in both theoretical and observational studies, as well as more intuitively.
+- Please give the Jeans radius in pc instead of cm.
+- Why are there no calculations for olivine and graphite+ice mantles with n<0?
+- Note that units are not written in Italic style. Be consistent with all the styles.
+
+31) Language:
+As mentioned before, I like the idea of opacity limited fragmentation presented the paper. However, the language of the paper is not adequate for publication and its structure does not have a common thread. 
+Below I list some suggestions for how one may improve the language. Furthermore, I miss a common thread for most parts of the paper (thus, just implementing the suggestions below is *not* enough!).
+I recommend that the authors revise the paper completely, ideally together with a native speaker. Otherwise, I cannot accept the paper for publication.
+
+(I) entire paper: 
+- Do not use „the former […] the latter […]“. The correct phrases are „the one […] the other […]“ or „the first […] the second […]“.
+- Use the term *dust grains* instead of „grains“ only.
+- Make sure that the spaces between the text and brackets are correctly set (e.g., „ISM(Field 1965).“ -> ISM (Field 1965).).
+- Always use present tense for describing your own work.
+- Be consistent with the text styles you use. Variables and parameters are normally written in Italic, while molecules (such as CO or all the dust species) are written in the normal font style.
+- When the authors refer to equations that they have introduced before it is common to use the abbreviation „Eq.“.
+- It is recommended to use a more formal language in a paper. Thus, please refrain from using terms like „(say)“ and equivalents. 
+- Although „viz.“ is correctly used throughout the entire paper, I would like to point out that it is very rarely used in papers on star formation. I would like to suggest to replace them by „i.e.,“, that is more common. 
+
+
+(II) abstract: 
+- „[…] wide range of Jeans masses starting from field starts and massive stars to star bursts.“ -> […] wide range of Jeans masses resulting in field starts, massive stars, and star bursts.
+
+Sect. 1:
+- „The interstellar space, filled with a diluted mixture of charged particles, atoms, molecules and dust grains is called the interstellar medium (ISM).“ -> The interstellar medium (ISM) is commonly known as a diluted mixture of charged particles, atoms, molecules and dust grains.
+[Note that when you are talking about the interstellar space is indeed the 3D space, not the matter it is filled with.]
+- „[interstellar; remove] molecular cloud“
+- „The fragmentation process of the [interstellar; remove] molecular cloud and star formation as well as its structure […]“: What does the „its“ refer to, the molecular cloud, star formation, the fragmentation process?
+- „The thermal instability is the most famous physical process […]“ -> The thermal instability is the most commonly known physical process […]
+- „Thermal instability [could occur; remove] in denser region […]“
+- „[…] collapse exceeds the rate of energy radiation through outside. Then the Jeans mass increases and as a result the […]“ -> […] collapse exceeds the rate  at which energy escapes the cloud via radiation. When the Jeans mass increases and, as a result, the […]
+- „The density at which this occurs depends on the opacity and the initial temperature of the gas […]“ -> The density at which the fragmentation occurs depends on the opacity, as well as the initial temperature of the gas.
+- Remove the sentence: „[…], hence the term ’opacity limited fragmentation’ emerges.“
+- „Using this equation with thermal balance equation in Section 2, we found in Section 3, the value of temperature T and the corresponding minimum Jeans masses in the presence of different grains for different values of n.“ -> Applying this equation a gas in thermal equilibrium we find a relation between the minimal fragment mass and the minimal gas temperature, as well as the composition of dust, contained within the gas, and n.
+- [and more..]
+
+[From now on I will focus on the most essential sentences that are important for the understanding of the paper content.]
+
+(III) Sect. 2:
+- Eqs. (1) & (3): Shouldn’t the divisor be mu instead of mu_0?
+- „[…] where y is the relative abundance of molecular hydrogen and the adopted value of y = 0.2 […]“ -> […] where y is the relative abundance of molecular hydrogen compared to [to what actually, apples, oranges, mangos?]. For our computations we adopt the value of y = 0.2, following Kanjilal & Bass (1992).
+
+(IV) Sect. 5:
+- (i) last sentence: Which „previous case“ do the authors mean?
+- (iv) -> The minimal temperature […]
 
 
 -------- response to the editor --------
-As mentioned in the responce letter to the authors the submitted paper contains an interesting study that will potentially find a good resonance in scientific discussions about fragmentation of molecular clouds and the onset of star formation.
-However, the language, as well as the structure of the paper really needs to improve as the way the paper is written is unclear and very confusing. 
-I hope that the authors will regard my comments on that issue particularly careful, as I do not think I can approve the paper at any point in its current version. 
-If the guidelines of the journal should, though, ask me to only evaluate the content of the paper and leave the linguitic refinement for later revision, I would appreciate it if you tell me as soon as possible.
+As mentioned in the response letter to the authors the submitted paper contains an interesting idea that will potentially find a good resonance in scientific discussions about fragmentation of molecular clouds and the onset of star formation. However, the language, as well as the structure of the paper really need to improve as the way the paper is written is unclear and very confusing. I hope that the authors will regard my comments on this issue particularly careful, as I do not think I can accept the paper at any point in its current version. If the guidelines of the journal should, though, ask me to only evaluate the content of the paper and leave the linguistic refinement for later revision, I would appreciate it if you tell me as soon as possible.
+
+
